@@ -12,3 +12,6 @@ Haciendo el readme en la clase.
 
 Imagen simple
 ![Texto alternativo](carro.png)
+
+Imagen desde URL externa
+![Logo]](https://media.cnn.com/api/v1/images/stellar/prod/cnne-896887-ferrari-anade-un-nuevo-modelo-convertible.jpg?c=16x9&q=w_1280,c_fill)
